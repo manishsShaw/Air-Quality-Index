@@ -6,7 +6,7 @@ def home():
         st.title("📄Overview")
         
 
-        st.image("images/page_1.png", use_container_width=True)
+        st.image("images/Page_1.png", use_container_width=True)
 
 
         st.markdown("""
